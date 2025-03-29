@@ -21,7 +21,7 @@ Hi there 👋, you can call me Fauzan. I am an aspiring business / data analyst 
 ## **Portfolio**
 ---
 - **[Online Shoppers Purchasing Intention Analysis](https://github.com/fauazhima/online-shoppers-purchasing-intention-analysis)**
-- **[Costumer Churn Predictor](https://github.com/fauazhima/customer-churn-predictor)**
+- **[Costumer Churn Predictor Model](https://github.com/fauazhima/customer-churn-predictor)**
 
 ## **How to Reach Me**
 ---
